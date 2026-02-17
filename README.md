@@ -3,9 +3,9 @@ C++ based hospital comparison system that helps users find the cheapest hospital
 
 Tech Used:
 
-C++
-File Handling (ifstream)
-Stringstream
-Standard Template Library (STL)
-VS Code
-Git & GitHub
+C++,
+File Handling (ifstream),
+Stringstream,
+Standard Template Library (STL),
+VS Code,
+Git & GitHub.
