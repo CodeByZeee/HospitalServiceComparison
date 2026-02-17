@@ -1,0 +1,35 @@
+
+Max Hospital,Rohini,CBC,1500
+Max Hospital,Rohini,BloodSugar,500
+Max Hospital,Rohini,XRay,3000
+Max Hospital,Rohini,Thyroid,1200
+Max Hospital,Rohini,ECG,1800
+Max Hospital,Rohini,Urine,600
+
+Fortis Hospital,Shalimar Bagh,CBC,1000
+Fortis Hospital,Shalimar Bagh,BloodSugar,400
+Fortis Hospital,Shalimar Bagh,XRay,2500
+Fortis Hospital,Shalimar Bagh,Thyroid,1100
+Fortis Hospital,Shalimar Bagh,ECG,1600
+Fortis Hospital,Shalimar Bagh,Urine,500
+
+Apollo Hospital,Sarita Vihar,CBC,1400
+Apollo Hospital,Sarita Vihar,BloodSugar,450
+Apollo Hospital,Sarita Vihar,XRay,2800
+Apollo Hospital,Sarita Vihar,Thyroid,1300
+Apollo Hospital,Sarita Vihar,ECG,1900
+Apollo Hospital,Sarita Vihar,Urine,650
+
+BLK Hospital,Karol Bagh,CBC,1200
+BLK Hospital,Karol Bagh,BloodSugar,420
+BLK Hospital,Karol Bagh,XRay,2600
+BLK Hospital,Karol Bagh,Thyroid,1150
+BLK Hospital,Karol Bagh,ECG,1700
+BLK Hospital,Karol Bagh,Urine,550
+
+Medanta,Gurgaon,CBC,1600
+Medanta,Gurgaon,BloodSugar,550
+Medanta,Gurgaon,XRay,3200
+Medanta,Gurgaon,Thyroid,1400
+Medanta,Gurgaon,ECG,2000
+Medanta,Gurgaon,Urine,700
